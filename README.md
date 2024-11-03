@@ -35,3 +35,12 @@ I'm a Japanese student. And I lovin' coffee☕
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinn00kinn&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kinn00kinn&theme=onedark&show_icons=ture" />
 </p>
+
+# 🎨My projects
+- [scnz_sh](https://github.com/kinn00kinn/scnz_sh):Parallelized yt-dlp execution by bash
+- [Ytplaylist2urls](https://github.com/kinn00kinn/Ytplaylist2urls):Extract the url of each video from youtube playlist
+- [statistics-by-awk](https://github.com/kinn00kinn/statistics-by-awk):Statistical processing program made with awk practice
+- [Dart_Score_Board](https://github.com/kinn00kinn/Dart_Score_Board):Scoreboard of rankings in darts games
+- [yt-dl-server](https://kinn00kinn.github.io/yt-dlp-server.github.io/):
+  - front-end:[yt-dlp-server.github.io](https://github.com/kinn00kinn/yt-dlp-server.github.io)
+  - back-end:[yt-dl-server](https://github.com/kinn00kinn/yt-dl-server)
