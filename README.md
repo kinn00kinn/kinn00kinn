@@ -90,11 +90,6 @@ Tired of the **unwanted line breaks** that appear when you copy text from a PDF?
 
 ---
 
-### 🛠️ More Projects
-
-Of course. Here is the complete list with unified English translations and consistent formatting.
-
------
 
 ### 🛠️ More Projects
 
