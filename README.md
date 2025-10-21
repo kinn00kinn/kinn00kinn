@@ -104,7 +104,7 @@ This site is a gallery showcasing my own photography. At the same time, the site
   - **[img\_dlp](https://github.com/kinn00kinn/img_dlp)**: A Python script that collects images from a website and consolidates them into a single PDF.
   - **[LUT-Estimator](https://github.com/kinn00kinn/LUT-Estimator)**: A Python tool that estimates a 3D LUT from image pairs and applies it to other images for high-quality color grading.
   - **[playlist2urls](https://github.com/kinn00kinn/playlist2urls)**: A program to extract all video URLs from a YouTube playlist.
-  - **[user-info-viewer](https://github.com/kinn00kinn/user-info-viewer)**: A simple web page to display user information from a text file.
+  - **[user-info-viewer](https://github.com/kinn00kinn/user-info-viewer.github.io)**: A simple web page to display user information from a text file.
   - **[yt-dlp-server](https://kinn00kinn.github.io/yt-dlp-server.github.io/)**: A web interface for the powerful `yt-dlp` tool.
       - **Frontend Repo**: [`yt-dlp-server.github.io`](https://www.google.com/search?q=%5Bhttps://github.com/kinn00kinn/yt-dlp-server.github.io%5D\(https://github.com/kinn00kinn/yt-dlp-server.github.io\))
       - **Backend Repo**: [`yt-dl-server`](https://www.google.com/search?q=%5Bhttps://github.com/kinn00kinn/yt-dl-server%5D\(https://github.com/kinn00kinn/yt-dl-server\))
