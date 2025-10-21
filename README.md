@@ -38,6 +38,18 @@ I'm a student developer from Japan with a passion for coding and a deep apprecia
 
 ## 🚀 Featured Projects
 
+### 🎲 P2P Othello
+
+> Zero Server Costs! A real-time competitive Othello game using only P2P and free services.
+
+This is a real-time Othello game that runs entirely in a browser. It primarily uses P2P communication via **WebRTC (PeerJS)**, allowing game actions between players to be handled directly without a server, thus achieving a low-latency experience. Its key feature is that it can be operated with absolutely no server costs by deploying the signaling server for initial connections on **Render's** free tier and the front-end game client on **GitHub Pages**. You can start a match immediately without any installation just by sending a generated URL to a friend.
+
+![alt text](image-4.png)
+
+[Zenn:サーバー代0円！ P2Pと無料サービスだけでリアルタイム対戦オセロを作った話](https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4)
+
+---
+
 ### 🎨 Pixel-Sorting-Morphing-Page
 
 > Transform your everyday photos into breathtaking digital art.
@@ -45,6 +57,8 @@ I'm a student developer from Japan with a passion for coding and a deep apprecia
 This is an interactive tool that allows you to artistically process your images. Using a technique called **pixel sorting**, you can add fantastical effects that look as if paint is melting and flowing. Furthermore, the **morphing feature** lets you generate mesmerizing animations of your images smoothly transforming. All operations are controlled with intuitive sliders, so no expert knowledge is required.
 
 ![alt text](image.png)
+
+
 
 **[Visit the Site →](https://kinn00kinn.github.io/Pixel-Sorting-Morphing-Page.github.io/)**
 
@@ -76,17 +90,6 @@ This site is a gallery showcasing my own photography. At the same time, the site
 
 **[View Portfolio →](https://kinn00kinn.github.io/)**
 
----
-
-### 📋 pdfRegulerCopy
-
-> Free yourself from that tedious task.
-
-Tired of the **unwanted line breaks** that appear when you copy text from a PDF? This tool instantly cleans up unnecessary line breaks using regular expressions—all you have to do is paste the text. It's a simple yet powerful solution that dramatically improves productivity for researchers, students, and writers.
-
-![alt text](image-3.png)
-
-**[Try it Now →](https://kinn00kinn.github.io/pdfRegulerCopy.github.io/)**
 
 ---
 
