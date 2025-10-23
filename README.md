@@ -46,7 +46,11 @@ This is a real-time Othello game that runs entirely in a browser. It primarily u
 
 ![alt text](image-4.png)
 
-[Zenn:サーバー代0円！ P2Pと無料サービスだけでリアルタイム対戦オセロを作った話](https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4)
+**[Visit the Site →](https://kinn00kinn.github.io/osero_p2p_front.github.io/)**
+
+Zenn:[サーバー代0円！ P2Pと無料サービスだけでリアルタイム対戦オセロを作った話](https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4)
+
+
 
 ---
 
