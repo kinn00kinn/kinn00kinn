@@ -36,6 +36,12 @@ I'm a student developer from Japan with a passion for coding and a deep apprecia
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=kinn00kinn&theme=onedark&show_icons=true&border_radius=10" />
 </p>
 
+<a href="https://zenn.dev/kinnkinn">
+  <img src="https://zenn-contributions-badge.vercel.app/api/contributions-badge?username=kinnkinn&theme=dark" alt="zenn-contributions" />
+</a>
+
+
+
 ## 🚀 Featured Projects
 
 ### 🎲 P2P Othello
