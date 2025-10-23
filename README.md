@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="/image-5.JPG" alt="" width="600px" /> </div>
+
 # 👋 Hello, I'm kinn00kinn!
 
 I'm a student developer from Japan with a passion for coding and a deep appreciation for good coffee ☕. Welcome to my GitHub profile!
@@ -36,12 +39,6 @@ I'm a student developer from Japan with a passion for coding and a deep apprecia
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=kinn00kinn&theme=onedark&show_icons=true&border_radius=10" />
 </p>
 
-<a href="https://zenn.dev/kinnkinn">
-  <img src="https://zenn-contributions-badge.vercel.app/api/contributions-badge?username=kinnkinn&theme=dark" alt="zenn-contributions" />
-</a>
-
-
-
 ## 🚀 Featured Projects
 
 ### 🎲 P2P Othello
@@ -54,9 +51,7 @@ This is a real-time Othello game that runs entirely in a browser. It primarily u
 
 **[Visit the Site →](https://kinn00kinn.github.io/osero_p2p_front.github.io/)**
 
-Zenn:[サーバー代0円！ P2Pと無料サービスだけでリアルタイム対戦オセロを作った話](https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4)
-
-
+Zenn:[サーバー代 0 円！ P2P と無料サービスだけでリアルタイム対戦オセロを作った話](https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4)
 
 ---
 
@@ -67,8 +62,6 @@ Zenn:[サーバー代0円！ P2Pと無料サービスだけでリアルタイム
 This is an interactive tool that allows you to artistically process your images. Using a technique called **pixel sorting**, you can add fantastical effects that look as if paint is melting and flowing. Furthermore, the **morphing feature** lets you generate mesmerizing animations of your images smoothly transforming. All operations are controlled with intuitive sliders, so no expert knowledge is required.
 
 ![alt text](image.png)
-
-
 
 **[Visit the Site →](https://kinn00kinn.github.io/Pixel-Sorting-Morphing-Page.github.io/)**
 
@@ -100,21 +93,19 @@ This site is a gallery showcasing my own photography. At the same time, the site
 
 **[View Portfolio →](https://kinn00kinn.github.io/)**
 
-
 ---
-
 
 ### 🛠️ More Projects
 
-  - **[scnz\_sh](https://github.com/kinn00kinn/scnz_sh)**: A bash script to parallelize `yt-dlp` execution.
-  - **[Ytplaylist2urls](https://github.com/kinn00kinn/Ytplaylist2urls)**: Extracts all video URLs from a YouTube playlist.
-  - **[statistics-by-awk](https://github.com/kinn00kinn/statistics-by-awk)**: A statistical processing program written in AWK.
-  - **[Dart\_Score\_Board](https://github.com/kinn00kinn/Dart_Score_Board)**: A simple scoreboard for tracking rankings in dart games.
-  - **[CUDA\_LBM](https://github.com/kinn00kinn/CUDA_LBM)**: A program that uses CUDA to execute Lattice Boltzmann Method (LBM) simulations in parallel.
-  - **[img\_dlp](https://github.com/kinn00kinn/img_dlp)**: A Python script that collects images from a website and consolidates them into a single PDF.
-  - **[LUT-Estimator](https://github.com/kinn00kinn/LUT-Estimator)**: A Python tool that estimates a 3D LUT from image pairs and applies it to other images for high-quality color grading.
-  - **[playlist2urls](https://github.com/kinn00kinn/playlist2urls)**: A program to extract all video URLs from a YouTube playlist.
-  - **[user-info-viewer](https://github.com/kinn00kinn/user-info-viewer.github.io)**: A simple web page to display user information from a text file.
-  - **[yt-dlp-server](https://kinn00kinn.github.io/yt-dlp-server.github.io/)**: A web interface for the powerful `yt-dlp` tool.
-      - **Frontend Repo**: [`yt-dlp-server.github.io`](https://www.google.com/search?q=%5Bhttps://github.com/kinn00kinn/yt-dlp-server.github.io%5D\(https://github.com/kinn00kinn/yt-dlp-server.github.io\))
-      - **Backend Repo**: [`yt-dl-server`](https://www.google.com/search?q=%5Bhttps://github.com/kinn00kinn/yt-dl-server%5D\(https://github.com/kinn00kinn/yt-dl-server\))
+- **[scnz_sh](https://github.com/kinn00kinn/scnz_sh)**: A bash script to parallelize `yt-dlp` execution.
+- **[Ytplaylist2urls](https://github.com/kinn00kinn/Ytplaylist2urls)**: Extracts all video URLs from a YouTube playlist.
+- **[statistics-by-awk](https://github.com/kinn00kinn/statistics-by-awk)**: A statistical processing program written in AWK.
+- **[Dart_Score_Board](https://github.com/kinn00kinn/Dart_Score_Board)**: A simple scoreboard for tracking rankings in dart games.
+- **[CUDA_LBM](https://github.com/kinn00kinn/CUDA_LBM)**: A program that uses CUDA to execute Lattice Boltzmann Method (LBM) simulations in parallel.
+- **[img_dlp](https://github.com/kinn00kinn/img_dlp)**: A Python script that collects images from a website and consolidates them into a single PDF.
+- **[LUT-Estimator](https://github.com/kinn00kinn/LUT-Estimator)**: A Python tool that estimates a 3D LUT from image pairs and applies it to other images for high-quality color grading.
+- **[playlist2urls](https://github.com/kinn00kinn/playlist2urls)**: A program to extract all video URLs from a YouTube playlist.
+- **[user-info-viewer](https://github.com/kinn00kinn/user-info-viewer.github.io)**: A simple web page to display user information from a text file.
+- **[yt-dlp-server](https://kinn00kinn.github.io/yt-dlp-server.github.io/)**: A web interface for the powerful `yt-dlp` tool.
+  - **Frontend Repo**: [`yt-dlp-server.github.io`](<https://www.google.com/search?q=%5Bhttps://github.com/kinn00kinn/yt-dlp-server.github.io%5D(https://github.com/kinn00kinn/yt-dlp-server.github.io)>)
+  - **Backend Repo**: [`yt-dl-server`](<https://www.google.com/search?q=%5Bhttps://github.com/kinn00kinn/yt-dl-server%5D(https://github.com/kinn00kinn/yt-dl-server)>)
