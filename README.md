@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="/image-6.png" alt="" width="600px" /> </div>
+
 
 # 👋 Hello, I'm kinn00kinn!
 
