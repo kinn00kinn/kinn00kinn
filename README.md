@@ -53,7 +53,7 @@ I'm a student developer from Japan with a passion for coding and a deep apprecia
 
 ## 🚀 Featured Projects
 
-### PanDo
+### 🐼PanDo
 
 > A new social media platform specializing in pandas.
 
@@ -74,7 +74,7 @@ I'm a student developer from Japan with a passion for coding and a deep apprecia
 
 **[Visit the Site →](https://kinn00kinn.github.io/osero_p2p_front.github.io/)**
 
-Zenn:[サーバー代 0 円！ P2P と無料サービスだけでリアルタイム対戦オセロを作った話](https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4)
+**[Zenn:サーバー代 0 円！ P2P と無料サービスだけでリアルタイム対戦オセロを作った話](https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4)**
 
 ---
 
