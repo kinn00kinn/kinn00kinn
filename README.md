@@ -1,7 +1,16 @@
-<div align="center">
-  <img src="/image-6.png" alt="" width="600px" /> </div>
-
 # 👋 Hello, I'm kinn00kinn!
+
+<p align="left">
+  <a href="https://github.com/kinn00kinn">
+    <img height="20" src="https://komarev.com/ghpvc/?username=kinn00kinn" />
+  </a>
+  <a href="http://qiita.com/kinn00kinn">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kinn00kinn/posts.svg" />
+  </a>
+  <a href="https://zenn.dev/kinnkinn">
+    <img height="20" src="https://badgen.org/img/zenn/kinnkinn/articles?style=plastic" />
+  </a>
+</p>
 
 I'm a student developer from Japan with a passion for coding and a deep appreciation for good coffee ☕. Welcome to my GitHub profile!
 
@@ -39,13 +48,28 @@ I'm a student developer from Japan with a passion for coding and a deep apprecia
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=kinn00kinn&theme=onedark&show_icons=true&border_radius=10" />
 </p>
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kinn00kinn&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinn00kinn&theme=dracula)
+
 ## 🚀 Featured Projects
+
+### PanDo
+
+> A new social media platform specializing in pandas.
+
+![alt text](./pando-banner.gif)
+![alt text](image-7.png)
+
+**[Visit the Site →](https://n-scroller.vercel.app/)**
+
+**[Zenn:2025 年の個人開発：爆速で「パンダ特化型 SNS」を作った技術スタック全公開](https://zenn.dev/kinnkinn/articles/622a65a2a76dce)**
+
+---
 
 ### 🎲 P2P Othello
 
 > Zero Server Costs! A real-time competitive Othello game using only P2P and free services.
-
-This is a real-time Othello game that runs entirely in a browser. It primarily uses P2P communication via **WebRTC (PeerJS)**, allowing game actions between players to be handled directly without a server, thus achieving a low-latency experience. Its key feature is that it can be operated with absolutely no server costs by deploying the signaling server for initial connections on **Render's** free tier and the front-end game client on **GitHub Pages**. You can start a match immediately without any installation just by sending a generated URL to a friend.
 
 ![alt text](image-4.png)
 
@@ -59,35 +83,15 @@ Zenn:[サーバー代 0 円！ P2P と無料サービスだけでリアルタイ
 
 > Transform your everyday photos into breathtaking digital art.
 
-This is an interactive tool that allows you to artistically process your images. Using a technique called **pixel sorting**, you can add fantastical effects that look as if paint is melting and flowing. Furthermore, the **morphing feature** lets you generate mesmerizing animations of your images smoothly transforming. All operations are controlled with intuitive sliders, so no expert knowledge is required.
-
 ![alt text](image.png)
 
 **[Visit the Site →](https://kinn00kinn.github.io/Pixel-Sorting-Morphing-Page.github.io/)**
 
 ---
 
-### ⌨️ AncientTech (Chat-style Typing Game)
-
-> Decipher the ancient texts. A chat-style typing challenge.
-
-This is an immersive, chat-style typing game where you must type the on-screen text before it disappears. While simple, it demands both accuracy and speed, making it an addictive challenge.
-
-- **Crisp Sound Effects:** Fun sounds that make typing enjoyable.
-- **Skill Improvement:** Enhance your typing skills while having fun.
-- **Perfect for a Break:** Ideal for a quick refresh during a short break.
-
-![alt text](image-1.png)
-
-**[Take the Challenge →](https://kinn00kinn.github.io/typing_game.github.io/)**
-
----
-
 ### 📸 My Portfolio
 
 > Where the world through my lens and the expressions woven by code meet.
-
-This site is a gallery showcasing my own photography. At the same time, the site itself is a testament to my programming skills. It's a portfolio that embodies my creativity by fusing the analog sensibility of photography with the digital technology of a website.
 
 ![alt text](image-2.png)
 
