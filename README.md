@@ -46,11 +46,10 @@ I'm a student developer from Japan with a passion for coding and a deep apprecia
 <p align="center"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinn00kinn&layout=compact&show_icons=true&theme=onedark&border_radius=10" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=kinn00kinn&theme=onedark&show_icons=true&border_radius=10" />
+  <img alt="profile-summary" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinn00kinn&theme=dracula" />
 </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kinn00kinn&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinn00kinn&theme=dracula)
 
 ## 🚀 Featured Projects
 
