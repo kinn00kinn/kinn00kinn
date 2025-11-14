@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ea3df42815b3bda689343f22ae81d84ef2787e49
 # 👋 Hello, I'm kinn00kinn!
 
 <p align="left">
