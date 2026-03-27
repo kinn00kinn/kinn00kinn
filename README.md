@@ -97,33 +97,7 @@
 
 <hr>
 
-<h3 align="center">🎨 Pixel-Sorting-Morphing-Page</h3>
-<p align="center">
-  <i>Transform your everyday photos into breathtaking digital art.</i>
-</p>
 
-<p align="center">
-  <img src="image.png" width="100%" alt="Pixel Art Screenshot">
-</p>
-
-<p align="center">
-  <b><a href="https://kinn00kinn.github.io/Pixel-Sorting-Morphing-Page.github.io/">Visit the Site →</a></b>
-</p>
-
-<hr>
-
-<h3 align="center">📸 My Portfolio</h3>
-<p align="center">
-  <i>Where the world through my lens and the expressions woven by code meet.</i>
-</p>
-
-<p align="center">
-  <img src="image-2.png" width="100%" alt="Portfolio Screenshot">
-</p>
-
-<p align="center">
-  <b><a href="https://kinn00kinn.github.io/">View Portfolio →</a></b>
-</p>
 
 <hr>
 
